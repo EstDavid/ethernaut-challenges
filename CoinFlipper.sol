@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// Original challenge at: https://ethernaut.openzeppelin.com/level/0x9240670dbd6476e6a32055E52A0b0756abd26fd2
 pragma solidity ^0.8.0;
 
 contract CoinFlipper {
